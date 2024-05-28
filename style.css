@@ -1,0 +1,56 @@
+body{
+    background-color: antiquewhite;
+}
+
+.divLeft{
+    text-align: left;
+}
+
+.divRight{
+    text-align: right;
+}
+
+.divCenter{
+    text-align: center;
+}
+
+.textTop{
+    vertical-align: top;
+}
+
+.textMid{
+    vertical-align: middle;
+}
+
+.textBotton{
+    vertical-align: bottom;
+}
+
+.baseline{
+
+}
+
+.sub{
+
+}
+
+.super{
+
+}
+
+.pix{
+
+}
+
+
+.divText{
+    height: 200px;
+    width: 300px;
+    background-color: red;
+    display: inline-table;
+}
+
+.text{
+    display: table-cell;
+    vertical-align: middle;
+}
